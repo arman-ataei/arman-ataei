@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arman-ataei
-- 👀 I’m interested in pure mathematics, programming languages and web development
+- 👀 I’m interested in pure mathematics, image processing, programming languages and web development
 - 🌱 I’m currently learning web based technologies like : javascript, react, ...
 
 <!---
